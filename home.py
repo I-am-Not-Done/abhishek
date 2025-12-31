@@ -1,6 +1,6 @@
 '''a=[1,2,3,4,1,2,3,12,3,33,]
 s=set(a)
-print(s)
+''''print(s)''''
 if 4 in s:
     print("Element is present")
 else:
